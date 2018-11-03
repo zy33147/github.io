@@ -1,2 +1,1 @@
-# github.io
-Yii2 纯真IP库查询
+在yii2 
